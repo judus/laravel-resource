@@ -2,7 +2,7 @@
 
 This project became obsolete with the release of Laravel Nova. I revisited the code in 2020 and 2022 in order to finish the original idea.
 
-You can define "resources" (see Laravel Nova) and register them via ServiceProviders. The system will automatically create a CRUD for each resource (routes, tabels and forms)
+You can define "resources" (see Laravel Nova) and register them via ServiceProviders. The system will automatically create a CRUD for each resource (routes, tables and forms)
 
 At glance a Resource may look similar to this:
 
